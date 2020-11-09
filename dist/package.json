@@ -1,0 +1,26 @@
+{
+  "name": "web3js-cdn",
+  "version": "1.3.0",
+  "description": "web3.js distribution - for usage in browser/cdn",
+  "main": "web3.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/web3.js.git"
+  },
+  "keywords": [
+    "web3js",
+    "ethereum",
+    "web3",
+    "solidity",
+    "evm"
+  ],
+  "author": "see contributors",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/sambacha/web3.js/issues"
+  },
+  "homepage": "https://github.com/sambacha/web3.js#readme"
+}
