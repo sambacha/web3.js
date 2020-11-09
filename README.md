@@ -1,6 +1,41 @@
-<p align="center">
-  <img src="assets/logo/web3js.jpg" width="200" alt="web3.js" />
-</p>
+# 📦  web3js-cdn@1.3.0
+
+=== Tarball Contents === <br>
+1.2MB web3.min.js <br>
+612B  package.json <br>
+3.6MB web3.min.js.map <br>
+=== Tarball Details === <br>
+name:          web3js-cdn <br>
+version:       1.3.0 <br>
+package size:  1.3 MB <br>
+unpacked size: 4.8 MB <br>
+shasum:        5193a70b4fab0051a36d11211a424d4c57b6ea55 <br>
+integrity:     sha512-zxWQ6FJpPBV5M[...]QuPman2e4sz4g== <br>
+total files:   3 <br>
+<br>
+```diff
++ web3js-cdn@1.3.0
+```
+<br>
+[https://www.npmjs.com/package/web3js-cdn](https://www.npmjs.com/package/web3js-cdn) <br> 
+ 
+[https://www.npmjs.com/package/web3js-cdn/v/1.3.0 <br>
+
+[https://cdn.jsdelivr.net/npm/web3js-cdn@1.3.0/web3.min.js](https://cdn.jsdelivr.net/npm/web3js-cdn@1.3.0/web3.min.js) <br>
+ <br>
+```
+https://cdn.jsdelivr.net/npm/web3js-cdn@1.3.0/web3.min.js
+```
+
+### jsdelivr notes
+Load any project hosted on npm:
+
+https://cdn.jsdelivr.net/npm/package@version/file
+Load an exact version of a file:
+
+https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js
+
+
 
 # web3.js - Ethereum JavaScript API
 
